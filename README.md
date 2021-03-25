@@ -1,4 +1,4 @@
-# Prévision des consommaion d'énergie et des émissions de gaz à effet de serre des bâtiments de la ville de Seattle
+# Prévision de la consommation d'énergie et des émissions de gaz à effet de serre des bâtiments de la ville de Seattle
 
 Ce projet est basé sur le jeu de données Kaggle accessible à [cette adresse](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv).  
 Le but est de prévoir la consommation d'énergie et les émissions des gaz à effet de serre des bâtiments de la ville de Seattle.  
